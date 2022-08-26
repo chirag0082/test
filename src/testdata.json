@@ -1,0 +1,27 @@
+{"data":[
+    {
+      "key": "1",
+      "name": "Chirag",
+      "age": 22,
+      "address": "Surat No. 1 Lake Park"
+    },
+    {
+      "key": "2",
+      "name": "Dangar",
+      "age": 42,
+      "address": "Rajkot No. 2 Lake Park"
+    },
+    {
+      "key": "3",
+      "name": "Parth",
+      "age": 32,
+      "address": "Ahemdabad No. 3 Lake Park"
+    },
+    {
+      "key": "4",
+      "name": "Sunny",
+      "age": 45,
+      "address": "Surat No. 4 Lake Park"
+    }
+  ]
+}
